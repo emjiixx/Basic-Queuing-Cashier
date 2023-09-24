@@ -1,1 +1,2 @@
-# Basic-Queuing-Cashier-02-LAB-1-
+# BASIC QUEUING CASHIER with "NOW SERVING" FUNCTION!
+02 Laboratory Exercise 1 and 02 TP 1
